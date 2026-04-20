@@ -9,7 +9,7 @@ the hardest game est un jeu composé de 100 niveaux avec difficulté croissante.
 - Exécutez le jeu en ouvrant `the-hardest-game.html` dans un navigateur web
 
 ## jouer online
-**[👉 Clique ici pour jouer !](https://richerrail.github.io/)**
+**[👉 Clique ici pour jouer !]( https://richerrail.github.io/the-hardest-game/)**
 
 ## Licence
 Ce projet est sous licence MIT.
