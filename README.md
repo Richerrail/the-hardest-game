@@ -1,5 +1,7 @@
 # the hardest game
 
+![icon](icon.png)
+
 ## Description
 the hardest game est un jeu composé de 100 niveaux avec difficulté croissante. Il est créé en HTML/JavaScript et utilise la Web Audio API pour la musique procédurale.
 
